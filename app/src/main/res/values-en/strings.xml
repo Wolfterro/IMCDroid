@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMCDroid</string>
+    <string name="weightKilograms">Your weight in kilograms:</string>
+    <string name="insertWeightHere">Insert your weight here</string>
+    <string name="heightCentimeters">Your height in centimeters:</string>
+    <string name="insertHeightHere">Insert your height here</string>
+
+    <string name="result">Result:</string>
+    <string name="resultValue">0.0</string>
+    <string name="classification">Ranking:</string>
+    <string name="classificationValueDefault">No Ranking</string>
+
+    <string name="error">Error!</string>
+    <string name="errorInsertWeight">Insert your weight in kilograms and try again</string>
+    <string name="errorInsertHeight">Insert your height in centimeters and try again</string>
+
+    <!-- Classifications -->
+    <string name="graveMeagerness">Grave Meagerness</string>
+    <string name="moderateMeagerness">Moderate Meagerness</string>
+    <string name="slightMeagerness">Slight Meagerness</string>
+    <string name="healthy">Healthy</string>
+    <string name="overweight">Overweight</string>
+    <string name="obesityLevelOne">Obesity Level I</string>
+    <string name="obesityLevelTwo">Obesity Level II</string>
+    <string name="obesityLevelThree">Obesity Level III</string>
+
+    <string name="calculate">Calculate</string>
+</resources>

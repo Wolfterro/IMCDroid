@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IMCDroid</string>
+    <string name="weightKilograms">Seu peso em quilogramas:</string>
+    <string name="insertWeightHere">Insira seu peso aqui</string>
+    <string name="heightCentimeters">Sua altura em centímetros:</string>
+    <string name="insertHeightHere">Insira sua altura aqui</string>
+
+    <string name="result">Resultado:</string>
+    <string name="resultValue">0.0</string>
+    <string name="classification">Classificação:</string>
+    <string name="classificationValueDefault">Sem classificação</string>
+
+    <string name="error">Erro!</string>
+    <string name="errorInsertWeight">Insira o seu peso em quilogramas e tente novamente</string>
+    <string name="errorInsertHeight">Insira a sua altura em centímetros e tente novamente</string>
+
+    <!-- Classifications -->
+    <string name="graveMeagerness">Magreza Grave</string>
+    <string name="moderateMeagerness">Magreza Moderada</string>
+    <string name="slightMeagerness">Magreza Leve</string>
+    <string name="healthy">Saudável</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="obesityLevelOne">Obesidade Grau I</string>
+    <string name="obesityLevelTwo">Obesidade Grau II</string>
+    <string name="obesityLevelThree">Obesidade Grau III</string>
+
+    <string name="calculate">Calcular</string>
+</resources>
